@@ -27,7 +27,7 @@ spec:
     server: https://kubernetes.default.svc
   source:
     path: groups/dev
-    repoURL: https://github.com/ortwinschneider/battery-simulation-gitops
+    repoURL: https://github.com/dialvare/battery-simulation-gitops
     targetRevision: HEAD
   sources: []
   project: default
